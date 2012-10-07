@@ -6,4 +6,11 @@ The Book
 
     introduction
     installation
+    architecture
     connection
+    query_builder
+    expression_builder
+    schema
+    platform
+    type
+    security
