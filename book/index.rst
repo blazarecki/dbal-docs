@@ -5,3 +5,4 @@ The Book
     :maxdepth: 1
 
     introduction
+    installation
