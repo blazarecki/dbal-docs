@@ -6,3 +6,4 @@ The Book
 
     introduction
     installation
+    connection
