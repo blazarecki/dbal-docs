@@ -105,10 +105,7 @@ internal `Logger`_ (Monolog) & `Event Dispatcher`_ (Symfony2).
     $configuration = new DBAL\Configuration();
 
     // Customize the configuration
-
-    $parameters = array(
-        // ..
-    );
+    // ..
 
     $connection = DBAL\Factory::getConnection($parameters, $configuration);
 
